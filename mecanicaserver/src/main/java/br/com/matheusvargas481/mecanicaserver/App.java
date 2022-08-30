@@ -17,5 +17,6 @@ public class App {
         carro.setModelo("Panamera");
 
         System.out.println(carro);
+        System.out.println(carro);
     }
 }
