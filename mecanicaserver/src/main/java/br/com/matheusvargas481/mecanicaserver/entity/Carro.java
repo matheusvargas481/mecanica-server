@@ -29,10 +29,10 @@ public class Carro {
 
     @Override
     public String toString() {
-        return Json.toJson("Carro{" +
+        return "Carro: {" +
                 "id=" + id +
                 ", marca='" + marca + '\'' +
                 ", modelo='" + modelo + '\'' +
-                '}');
+                '}';
     }
 }
