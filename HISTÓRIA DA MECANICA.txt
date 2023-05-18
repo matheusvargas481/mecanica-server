@@ -1,0 +1,11 @@
+Dado que:
+	Eu tenho uma mecânica e preciso manter o histórico dos meus atendimentos.
+Então: 
+	Eu gostaria de buscar as ordens de serviço com base na placa do carro. 
+	E consultar os serviços feitos anteriormente ou se for primeiro atendimento, 
+	informar na tela que é um cliente novo. 
+	Gostaria de incluir dados do cliente? 
+		Gostaria de salvar os seguintes	dados do cliente: 
+			nome completo, telefone, endereço, modelo do carro, ano, marca. 
+Para: 
+	
