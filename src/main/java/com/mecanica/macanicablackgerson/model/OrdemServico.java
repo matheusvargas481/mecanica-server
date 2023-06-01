@@ -4,6 +4,7 @@ import java.util.List;
 
 public class OrdemServico {
     private Long id;
+    private Long idCliente;
     private String numeroOS;
     private Cliente cliente;
     private Veiculo veiculo;
@@ -16,6 +17,14 @@ public class OrdemServico {
 
     public void setId(Long id) {
         this.id = id;
+    }
+
+    public Long getIdCliente() {
+        return idCliente;
+    }
+
+    public void setIdCliente(Long idCliente) {
+        this.idCliente = idCliente;
     }
 
     public String getNumeroOS() {

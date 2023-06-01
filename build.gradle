@@ -15,6 +15,8 @@ repositories {
 dependencies {
     //start aplicação spring
     implementation 'org.springframework.boot:spring-boot-starter'
+
+    //hibernate/validação/jpa
     implementation 'org.springframework.boot:spring-boot-starter-validation'
 
     //start testes spring
